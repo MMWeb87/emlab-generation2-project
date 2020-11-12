@@ -1,0 +1,25 @@
+{
+    "id": "7E3C0A63",
+    "path": "~/Development/java-projects/emlab-generation2/resources/sources/targets/generate_NECP_targets.R",
+    "project_path": "generate_NECP_targets.R",
+    "type": "r_source",
+    "hash": "3735504807",
+    "contents": "",
+    "dirty": false,
+    "created": 1595574312071.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "116,0",
+        "scrollLine": "116",
+        "tempName": "Untitled1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1604681630,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1604681630624,
+    "read_only": false,
+    "read_only_alternatives": []
+}

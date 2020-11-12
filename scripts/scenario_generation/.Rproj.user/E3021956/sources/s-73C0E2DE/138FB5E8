@@ -1,0 +1,24 @@
+{
+    "id": "138FB5E8",
+    "path": "~/Development/java-projects/emlab-generation2-prj/scripts/scenario_generation/data/Scenario_NL_DE_intermittent_auction_pref_glue_template.java.txt",
+    "project_path": "data/Scenario_NL_DE_intermittent_auction_pref_glue_template.java.txt",
+    "type": "text",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1605182095325.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "1760,0",
+        "scrollLine": "55"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1605182465,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1605182465628,
+    "read_only": false,
+    "read_only_alternatives": []
+}

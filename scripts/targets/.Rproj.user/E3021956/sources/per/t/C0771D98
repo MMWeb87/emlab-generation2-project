@@ -1,0 +1,24 @@
+{
+    "id": "C0771D98",
+    "path": "~/Development/java-projects/emlab-generation2/analysis/config.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "4266847872",
+    "contents": "",
+    "dirty": false,
+    "created": 1604667093422.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "16,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1603445586,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1603445586,
+    "read_only": false,
+    "read_only_alternatives": []
+}
